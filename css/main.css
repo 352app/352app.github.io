@@ -214,12 +214,12 @@ a:focus {
 }
 
 .hero-area {
-  background: url(../img/hero-area.jpg) no-repeat;
+  background: url(../img/background.png) no-repeat;
   background-size: cover;
   background-position: center bottom;
   color: #fff;
   overflow: hidden;
-  padding: 90px 0;
+  padding: 140px 0;
 }
 .hero-area .sticky-navigation {
   background: transparent;
